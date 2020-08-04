@@ -1,10 +1,7 @@
 ### Hi there, I'm [James!](https://www.linkedin.com/in/jbsilcott/) 👋.  
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![](https://visitor-badge.glitch.me/badge?page_id=silcott.silcott.readme)
 
-<!--- COMMENT OUT TILL I GET ONE  <br/>
-<a href="https://twitter.com/8bithemant">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> --->
+
 <a href="https://www.linkedin.com/in/jbsilcott/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/social/linkedin_black_and_white.svg" />
 </a>
@@ -40,20 +37,10 @@
 *************
 ### - Languages and Tools...
 <p align="center">
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
 <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/csharp_dotnet.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/services/office_365.svg" alt="office365" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
-<!--- ### - Blogs 🌱--->
-<!--- <p align="center">
-<img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/blogs/devto.svg"> 
-</p> --->
-
-<!--- ### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/streaming/podcast.svg"> 
-</p> --->
 
 
 ***********************************
