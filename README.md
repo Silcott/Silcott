@@ -23,8 +23,7 @@
 <br />
 
 ### Hey there! 🙋‍♂️,
-### I'm a student at the Microsoft Software and Systems Academy located at Embry-Riddle in Quantico, VA.  I just finished my Software Fundamentals 98-361 cerification and now I'm building projects that will involve and enhance my skills in C#, SQL, and web development. Join by following as I take this jouney and don't forget to share and<img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
-
+### I am a student at the Microsoft Software and Systems Academy located at Embry-Riddle in Quantico, VA.  I just finished my Software Fundamentals 98-361 certification and now I am building projects that will involve and enhance my skills in C#, SQL, and web development. Join by following as I take this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
 #### - 🥀 Learning T-SQL/Azure/C#  
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/social/twitter.svg" >](https://twitter.com/silcott_james)
