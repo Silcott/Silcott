@@ -15,11 +15,11 @@
 </a>
 
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://cdn.dribbble.com/users/1025786/screenshots/3867122/400.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media3.giphy.com/media/aOuWy7Bi2hHsjxPoLu/giphy.gif?cid=ecf05e47lxmu6xbm05j3hl78carh33h7b673ti0bzjljoegs&rid=giphy.gif" />
 
 <br />
 
-###  Welcome to my GitHub page. I am a student at the Microsoft Software and Systems Academy with Embry-Riddle. I have learned C#, SQL, HTML, CSS, Javascript, Python and contiuing to grow stronger int hese languages everyday. Join by following as I take this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
+###  Welcome to my GitHub page. I am a recent 24-year Air Force Veteran and soon a graduate from Microsoft Software and Systems Academy with Embry-Riddle. My computer skills include languages in: C#, SQL, HTML, CSS, JavaScript, Python and continuing to grow strong. Join me by following as I continue this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/social/twitter.svg" >](https://twitter.com/silcott_james)
 
