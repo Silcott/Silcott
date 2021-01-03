@@ -19,7 +19,7 @@
 
 <br />
 
-###  Welcome to my GitHub page. I am a recent 24-year Air Force Veteran and soon a graduate from Microsoft Software and Systems Academy with Embry-Riddle. My computer skills include languages in: C#, SQL, HTML, CSS, JavaScript, Python and continuing to grow strong. Join me by following as I continue this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
+###  Welcome to my GitHub page. I am a 24-year Air Force Veteran and a graduate from Microsoft Software and Systems Academy with Embry-Riddle. My computer skills include languages in: C#, SQL, HTML, CSS, JavaScript, Python and continuing to grow strong. Join me by following as I continue this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/social/twitter.svg" >](https://twitter.com/silcott_james)
 
