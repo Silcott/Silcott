@@ -1,11 +1,12 @@
-### Hi there, I'm [Jim Silcott!](https://www.linkedin.com/in/jbsilcott/) 👋.  
+### Hey there, I'm [Jim Silcott!](https://www.linkedin.com/in/jbsilcott/) 👋.  
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![](https://visitor-badge.glitch.me/badge?page_id=silcott.silcott.readme) <a href="https://www.linkedin.com/in/jbsilcott/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/social/linkedin_black_and_white.svg" />
 </a>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/I6SAWbc9vksg0/giphy.gif">
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/xT4Aphm45GMfpVEUxO/giphy.gif">
 
 ###  Welcome to my GitHub. I am a Air Force Veteran and a graduate from Microsoft Software and Systems Academy with Embry-Riddle. My computer skills include languages in: C#, SQL, HTML, CSS, JavaScript, Python and continuing to grow strong. Join me by following as I continue this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
+###  Currently I'm working on a few freelance projects, if you see anything that interests you, please send me a [message](mailto:silcott.jb@outlook.com) <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/512/external-email-morning-routine-flatart-icons-lineal-color-flatarticons.png" width="35px">
 
 <br />
 
@@ -22,10 +23,7 @@
 <br />
 
 ***********************************
-<img align="center" height="200px" width="820px" alt="GIF" src="https://media3.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif?cid=ecf05e475pzaua62654f3dhc72svhuhvy090f0su06nyqh9r&rid=giphy.gif">
+<img align="center" height="450px" width="820px" alt="GIF" src="https://media.giphy.com/media/xUKrrEnN9I5lnrcSMv/giphy-downsized-large.gif">
 
-<p align="center" height="200px" width="820px">
-<img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/name/james-logo-writing.svg" alt="html" style=margin:4px" height="200px" width="450px">
-</p>
 
 
