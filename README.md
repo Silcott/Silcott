@@ -5,7 +5,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/I6SAWbc9vksg0/giphy.gif">
 
-###  Welcome to my GitHub. I am a 24-year Air Force Veteran and a graduate from Microsoft Software and Systems Academy with Embry-Riddle. My computer skills include languages in: C#, SQL, HTML, CSS, JavaScript, Python and continuing to grow strong. Join me by following as I continue this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
+###  Welcome to my GitHub. I am a Air Force Veteran and a graduate from Microsoft Software and Systems Academy with Embry-Riddle. My computer skills include languages in: C#, SQL, HTML, CSS, JavaScript, Python and continuing to grow strong. Join me by following as I continue this journey and do not forget to share and <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/ifUseful/ifUseful.svg">
 
 <br />
 
