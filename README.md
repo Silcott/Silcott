@@ -10,6 +10,8 @@
 
 <br />
 
+###  Make sure to check out my [PORTFOLIO PAGE](https://github.com/Silcott/PORTFOLIO-OF-PROJECTS)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silcott&show_icons=true&theme=dracula)
 
 *************
@@ -20,9 +22,12 @@
 <img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/csharp_dotnet.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/services/office_365.svg" alt="office365" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/Silcott/Silcott/master/SVG/dev/tools/visualstudio.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+
+
 <br />
 
 ***********************************
+##  THUMBS UP TO EVERYONE HELPING ME ALONG THE WAY!
 <img align="center" height="450px" width="820px" alt="GIF" src="https://media.giphy.com/media/xUKrrEnN9I5lnrcSMv/giphy-downsized-large.gif">
 
 
