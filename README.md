@@ -10,7 +10,7 @@
 
 <br />
 
-###  Make sure to check out my [PORTFOLIO PAGE](https://github.com/Silcott/PORTFOLIO-OF-PROJECTS)
+###  Make sure to check out my [PORTFOLIO](https://github.com/Silcott/PORTFOLIO-OF-PROJECTS)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silcott&show_icons=true&theme=dracula)
 
@@ -27,7 +27,7 @@
 <br />
 
 ***********************************
-##  THUMBS UP TO EVERYONE HELPING ME ALONG THE WAY!
+##  THUMBS UP TO EVERYONE THATS HELPED ME ALONG THE WAY!
 <img align="center" height="450px" width="820px" alt="GIF" src="https://media.giphy.com/media/xUKrrEnN9I5lnrcSMv/giphy-downsized-large.gif">
 
 
